@@ -1,0 +1,12 @@
+#!/bin/sh
+
+set -e
+
+case "$1" in
+  remove)
+    xdg-desktop-menu uninstall /usr/share/desktop-directories/netrunner-web.directory /usr/share/applications/hooktube.desktop
+esac
+
+#DEBHELPER#
+
+exit 0
