@@ -1,0 +1,13 @@
+Source: web-menu-entries
+Section: kde
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://github.com/ds9-extras/web-menu-entries
+
+Package: web-menu-entries
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, xdg-utils
+Description: Adds menu entries with logo into new category "Web"
+ This package adds menu entries with logo into new category "Web"
