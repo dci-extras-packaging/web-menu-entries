@@ -7,6 +7,7 @@ case "$1" in
     xdg-desktop-menu install /usr/share/desktop-directories/netrunner-web.directory /usr/share/applications/hooktube.desktop --novendor
     xdg-desktop-menu install /usr/share/desktop-directories/netrunner-web.directory /usr/share/applications/telegram.desktop --novendor
     xdg-desktop-menu install /usr/share/desktop-directories/netrunner-web.directory /usr/share/applications/whatsapp.desktop --novendor
+    xdg-desktop-menu install /usr/share/desktop-directories/netrunner-web.directory /usr/share/applications/skype-web.desktop --novendor
 esac
 
 #DEBHELPER#
