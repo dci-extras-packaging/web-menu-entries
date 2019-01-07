@@ -7,6 +7,8 @@ case "$1" in
     xdg-desktop-menu uninstall /usr/share/desktop-directories/netrunner-web.directory /usr/share/applications/hooktube.desktop
     xdg-desktop-menu uninstall /usr/share/desktop-directories/netrunner-web.directory /usr/share/applications/telegram.desktop
     xdg-desktop-menu uninstall /usr/share/desktop-directories/netrunner-web.directory /usr/share/applications/whatsapp.desktop
+    xdg-desktop-menu uninstall /usr/share/desktop-directories/netrunner-web.directory /usr/share/applications/skype-web.desktop
+    xdg-desktop-menu uninstall /usr/share/desktop-directories/netrunner-web.directory /usr/share/applications/opendesktop.desktop
 esac
 
 #DEBHELPER#
