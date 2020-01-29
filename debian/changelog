@@ -1,3 +1,9 @@
+web-menu-entries (1-1.1) stable; urgency=medium
+
+  * Update Multi-Arch. 
+
+ -- Scarlett Moore <sgmoore@kde.org>  Wed, 29 Jan 2020 10:37:12 -0700
+
 web-menu-entries (1) testing; urgency=medium
 
   * Initial version

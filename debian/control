@@ -8,6 +8,7 @@ Homepage: https://github.com/ds9-extras/web-menu-entries
 
 Package: web-menu-entries
 Architecture: all
+Multi-Arch: foreign
 Depends: ${shlibs:Depends}, ${misc:Depends}, xdg-utils
 Description: Adds menu entries with logo into new category "Web"
  This package adds menu entries with logo into new category "Web"
